@@ -1,5 +1,5 @@
 # AboutMeBasic #
-AboutMeBasic is a first app I built while taking DevMoutain Pre-Course. This aboutMeApp is an iOS app and built in xCode and Swift. The app is about 1 single viewController show detail about me.
+AboutMeBasic is a first app I built while taking DevMoutain Pre-Course. This aboutMeApp is an iOS app and built in xCode and Swift. The app is about a single viewController show detail about me.
 
 ## What I have learned ##
 I have learned how to define these keywords following from this app.
